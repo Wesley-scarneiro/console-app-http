@@ -44,3 +44,6 @@ Disponibiliza métodos genéricos para os verbos HTTP GET, POST, PUT e DELETE
 * POST: Cria um registro
 * PUT: Atualiza um ou mais campos de um registro
 * DELETE: Remove um registro
+
+# Log
+![Log](httpnet.png)
